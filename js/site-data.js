@@ -34,7 +34,8 @@ const siteData = {
   skillCategories: {
     programmingLanguages: [
       { name: "Python", icon: "devicon-python-plain colored", tag: "Primary Backend" },
-      { name: "JavaScript", icon: "devicon-javascript-plain colored", tag: "Frontend Logic (ES6+)" }
+      { name: "JavaScript", icon: "devicon-javascript-plain colored", tag: "Frontend Logic (ES6+)" },
+      { name: "PHP", icon: "devicon-php-plain colored", tag: "Server-Side Scripting" }
     ],
     webFrameworksUI: [
       { name: "Django", icon: "devicon-django-plain colored", tag: "Full-Stack MVC" },
