@@ -1,0 +1,95 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 5266 >>
+stream
+q
+0.2 0.2 0.2 RG 0.5 w 50 692 m 562 692 l S
+0.2 0.2 0.2 RG 0.5 w 50 622 m 562 622 l S
+0.2 0.2 0.2 RG 0.5 w 50 552 m 562 552 l S
+0.2 0.2 0.2 RG 0.5 w 50 470 m 562 470 l S
+0.2 0.2 0.2 RG 0.5 w 50 280 m 562 280 l S
+0.2 0.2 0.2 RG 0.5 w 50 206 m 562 206 l S
+BT /F2 18 Tf 50 750 Td (MOHAMED SHERIF M) Tj ET
+BT /F2 11 Tf 50 734 Td (Python Full-Stack Developer | MCA Graduate) Tj ET
+BT /F1 9 Tf 50 720 Td (Chennai, India  |  +91 9791591830  |  m.sherif22118@gmail.com  |  linkedin.com/in/mohamed-sherif-m-7061a3246  |  github.com/techsherif-arch) Tj ET
+BT /F2 10 Tf 50 698 Td (PROFESSIONAL SUMMARY) Tj ET
+BT /F1 8.5 Tf 50 684 Td (MCA graduate and Python Full-Stack Developer with practical experience in designing, building, and deploying web applications using) Tj ET
+BT /F1 8.5 Tf 50 672 Td (Python, Django, Flask, MySQL, and JavaScript. Proficient in engineering RESTful APIs, relational database schemas, and modern) Tj ET
+BT /F1 8.5 Tf 50 660 Td (responsive front-end layouts using ReactJS and Bootstrap. Demonstrated strong analytical and problem-solving skills across full-stack) Tj ET
+BT /F1 8.5 Tf 50 648 Td (software development projects. Seeking an entry-level Software Engineer or Full-Stack Developer position to contribute scalable technical solutions.) Tj ET
+BT /F2 10 Tf 50 628 Td (TECHNICAL SKILLS) Tj ET
+BT /F2 8.5 Tf 50 614 Td (Programming Languages: ) Tj ET
+BT /F1 8.5 Tf 160 614 Td (Python, JavaScript) Tj ET
+BT /F2 8.5 Tf 50 602 Td (Web Frameworks & UI: ) Tj ET
+BT /F1 8.5 Tf 155 602 Td (Django, Flask, ReactJS, Bootstrap, HTML5, CSS3) Tj ET
+BT /F2 8.5 Tf 50 590 Td (Database: ) Tj ET
+BT /F1 8.5 Tf 100 590 Td (MySQL, SQL) Tj ET
+BT /F2 8.5 Tf 50 578 Td (Tools & Hardware: ) Tj ET
+BT /F1 8.5 Tf 135 578 Td (Git, GitHub, VS Code, Arduino, GPS/GSM Microcontroller Modules) Tj ET
+BT /F2 10 Tf 50 558 Td (INTERNSHIP EXPERIENCE) Tj ET
+BT /F2 9 Tf 50 544 Td (Front End Development Intern) Tj ET
+BT /F1 8.5 Tf 420 544 Td (June 2024 - July 2024 | 6 Weeks Program) Tj ET
+BT /F1 8.5 Tf 50 532 Td (Edunet Foundation / IBM SkillsBuild) Tj ET
+BT /F1 8.5 Tf 50 520 Td (- Engineered responsive user interfaces utilizing HTML5, CSS3, and JavaScript during a 6-week intensive software development internship program.) Tj ET
+BT /F1 8.5 Tf 50 508 Td (- Applied modern front-end web development practices to build clean, maintainable, and cross-browser-compatible UI components.) Tj ET
+BT /F1 8.5 Tf 50 496 Td (- Collaborated on project deliverables and code reviews, optimizing DOM manipulation and styling structures to improve page rendering speeds.) Tj ET
+BT /F2 10 Tf 50 476 Td (TECHNICAL PROJECTS) Tj ET
+BT /F2 9 Tf 50 462 Td (Disaster Relief Management System) Tj ET
+BT /F1 8.5 Tf 330 462 Td (Python, Flask, MySQL, JavaScript, Bootstrap) Tj ET
+BT /F1 8.5 Tf 50 450 Td (- Engineered a dynamic full-stack web application to centralize disaster incident reporting, victim tracking, relief inventory, and camp distributions.) Tj ET
+BT /F1 8.5 Tf 50 438 Td (- Integrated database schemas with MySQL to execute SQL relational queries efficiently and minimize processing latency.) Tj ET
+BT /F1 8.5 Tf 50 426 Td (- Designed dynamic, user-friendly front-end web interfaces utilizing custom CSS styling and responsive Bootstrap components.) Tj ET
+BT /F2 9 Tf 50 406 Td (AI-Driven Autonomous Robot) Tj ET
+BT /F1 8.5 Tf 380 406 Td (Python, AI Algorithms, Arduino) Tj ET
+BT /F1 8.5 Tf 50 394 Td (- Programmed control and navigation algorithms in Python on microcontrollers for real-time decision-making logic.) Tj ET
+BT /F1 8.5 Tf 50 382 Td (- Implemented sensor-driven automated routines designed for intelligent control across multi-domain applications.) Tj ET
+BT /F2 9 Tf 50 362 Td (Location Tracking System for Women Safety) Tj ET
+BT /F1 8.5 Tf 370 362 Td (Arduino, GPS, GSM Modules) Tj ET
+BT /F1 8.5 Tf 50 350 Td (- Built an IoT-based emergency tracking system utilizing GPS modules for real-time geolocation retrieval and GSM modules for instant automated emergency SMS alerts.) Tj ET
+BT /F1 8.5 Tf 50 338 Td (- Configured hardware-software communication interfaces to ensure zero-delay signal transmission during emergency triggers.) Tj ET
+BT /F2 9 Tf 50 318 Td (Edunet Website Clone) Tj ET
+BT /F1 8.5 Tf 410 318 Td (HTML5, CSS3, JavaScript) Tj ET
+BT /F1 8.5 Tf 50 306 Td (- Developed a fully responsive web application clone using custom CSS layouts and dynamic JavaScript DOM manipulation to practice UI design standards.) Tj ET
+BT /F2 10 Tf 50 286 Td (EDUCATION) Tj ET
+BT /F2 9 Tf 50 272 Td (Master of Computer Applications \(MCA\)) Tj ET
+BT /F1 8.5 Tf 410 272 Td (2023 - 2025 | CGPA: 7.49) Tj ET
+BT /F1 8.5 Tf 50 260 Td (B.S. Abdur Rahman Crescent Institute of Science and Technology) Tj ET
+BT /F2 9 Tf 50 244 Td (Bachelor of Computer Applications \(BCA\)) Tj ET
+BT /F1 8.5 Tf 410 244 Td (2020 - 2023 | CGPA: 7.3) Tj ET
+BT /F1 8.5 Tf 50 232 Td (The Quaide Milleth College for Men) Tj ET
+BT /F2 10 Tf 50 212 Td (CERTIFICATIONS & PROFESSIONAL DEVELOPMENT) Tj ET
+BT /F1 8.5 Tf 50 198 Td (- NPTEL Certification: Cloud Computing Infrastructure & Services) Tj ET
+BT /F1 8.5 Tf 50 186 Td (- Skill Up Certification: Introduction to IoT & Embedded Systems) Tj ET
+BT /F1 8.5 Tf 50 174 Td (- Professional Development: Advanced Communication Skills & Technical Speaking) Tj ET
+Q
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000240 00000 n 
+0000000000 00000 n 
+0000000000 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+0
+%%EOF
